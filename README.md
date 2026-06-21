@@ -55,6 +55,8 @@ to identify profitability drivers and business recommendations.
 
 ---
 
+Data Source: Superstore Dataset via Kaggle
+
 ## Status
 - [x] Week 1: SQL Analysis
 - [ ] Week 2: Python EDA
